@@ -1,0 +1,8 @@
+.circle {
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    border: 1px solid;
+    padding: 8px;
+    margin: 5px;
+}
